@@ -9,6 +9,9 @@
 <body>
     <?php 
         echo "Hello world!";
+
+        $test = 5 + 5;
+        echo $test;
     ?>
     
 </body>
